@@ -1,7 +1,7 @@
 # Thesis-Template
 This is an unofficial latex template of University of Macau doctoral thesis.
 
-The author of the template is the graduate CS PhD student Bo Liu. The template is free but do not use it for commercial purpose. 
+The author of the template is Bo Liu, a graduated CS PhD student. The template is free but do not use it for commercial purpose. 
 
 Recommended compiler: Overleaf.
 
